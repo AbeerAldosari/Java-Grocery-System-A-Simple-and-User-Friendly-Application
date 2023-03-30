@@ -1,0 +1,5 @@
+phone 4000
+table 200
+smart pen 500
+cover 80
+Ipad 2000
